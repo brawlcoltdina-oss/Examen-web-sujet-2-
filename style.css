@@ -2,7 +2,7 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
     color: rgba(158, 141, 252, 0.938);
-    
+
 }
 .container{max-width:9484px; 
 margin: 0 auto;
@@ -34,9 +34,8 @@ ul {
 
 a {
      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(194, 105, 105);
-    color: rgba(0, 0, 0, 0.938);
-
+   
+      color: rgba(117, 29, 134, 0.938);
     text-decoration: none;
 }
 
