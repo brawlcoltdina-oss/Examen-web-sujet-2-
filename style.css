@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(7, 189, 119);
+    font-family: monospace;
+
+display: flex;
+     justify-content:space-around;
+     align-items:center;
+    
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(57, 41, 71, 0.993);
+     
+}
+h2 {
+    color: rgb(7, 189, 119);
+    font-family: monospace;
+
+display: flex;
+     justify-content:space-around;
+     align-items:center;
+    
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(57, 41, 71, 0.993);
+     
+}
+
+li{
+    margin: 50px;
+
+  display: flex;
+     justify-content:space-around;
+     align-items:center;
+     
+
+}
