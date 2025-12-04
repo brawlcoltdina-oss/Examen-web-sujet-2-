@@ -1,25 +1,36 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   
+ 
     color: rgba(158, 141, 252, 0.938);
 
+
+
+
+    .container{max-width:9484px; 
+margin: 80px;
+
+
 }
-.container{max-width:9484px; 
-margin: 0 auto;
+
+background-color: rgb(36, 20, 126);
+
+
 }
 header{
     display: flex;
-     justify-content:space-around;
+     justify-content:center;
    
 
      padding: 1rem 2rem;
     background-color: rgba(6, 11, 53, 0.938);
+
+
 }
 
     
 h2 {
       color: rgba(17, 185, 11, 0.938);
-
+    margin: 100px;
 }
 
 ul {
@@ -38,5 +49,14 @@ a {
       color: rgba(117, 29, 134, 0.938);
     text-decoration: none;
 }
+
+
+img {
+
+    margin: 25px;
+}
+
+
+
 
 
